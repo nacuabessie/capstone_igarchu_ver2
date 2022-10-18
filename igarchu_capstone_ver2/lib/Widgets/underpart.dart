@@ -28,7 +28,7 @@ class UnderPart extends StatelessWidget {
               fontWeight: FontWeight.w600),
         ),
         const SizedBox(
-          width: 20,
+          width: 10,
         ),
         InkWell(
           onTap: () {

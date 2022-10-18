@@ -1,6 +1,7 @@
 // ignore_for_file: unnecessary_const
 
 import 'package:flutter/material.dart';
+import 'package:igarchu_capstone_ver2/Screens/register_screen.dart';
 
 import '../Widgets/rounded_button.dart';
 import '../Widgets/underpart.dart';
@@ -118,11 +119,11 @@ class _LoginScreenState extends State<LoginScreen> {
                                   title: "Don't have an account?",
                                   navigatorText: "Register here",
                                   onTap: () {
-                                    // Navigator.push(
-                                    //     context,
-                                    //     MaterialPageRoute(
-                                    //         builder: (context) =>
-                                    //             register_screen()));
+                                    Navigator.push(
+                                        context,
+                                        MaterialPageRoute(
+                                            builder: (context) =>
+                                                RegisterScreen()));
                                   },
                                 ),
                               ])),
