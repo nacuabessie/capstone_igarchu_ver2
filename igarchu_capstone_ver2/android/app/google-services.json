@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509358039673",
+    "project_id": "igarchuver2",
+    "storage_bucket": "igarchuver2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509358039673:android:a432bcff4b892fc1b22aa8",
+        "android_client_info": {
+          "package_name": "com.example.igarchu_capstone_ver2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509358039673-88staku7mtr3spjqs4bffnnjnu0itmvg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8rqVSRur1TDCp90vdlYQQyAu8sd7-rj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509358039673-88staku7mtr3spjqs4bffnnjnu0itmvg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
