@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
-
-import 'Screens/login_screen.dart';
+import 'package:igarchu_capstone_ver2/Pet%20Lover/Screens/login_screen.dart';
 import 'constants.dart';
 
 void main() {

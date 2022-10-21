@@ -1,12 +1,13 @@
 // ignore_for_file: unnecessary_const
 
 import 'package:flutter/material.dart';
-import 'package:igarchu_capstone_ver2/Screens/register_screen.dart';
+import 'package:igarchu_capstone_ver2/Pet%20Lover/Screens/register_screen.dart';
+import 'package:igarchu_capstone_ver2/constants.dart';
 
 import '../Widgets/rounded_button.dart';
 import '../Widgets/underpart.dart';
 import '../Widgets/upside.dart';
-import '../constants.dart';
+
 
 class LoginScreen extends StatefulWidget {
   const LoginScreen({Key? key}) : super(key: key);
